@@ -11,8 +11,7 @@ from modules.utils import md5_hash_check, parse_hash
 
 MIRRORS = [
     "https://mirror.clientvps.com/ubcd",
-    "http://mirror.koddos.net/ubcd",
-    "https://mirror.lyrahosting.com/ubcd",
+    "http://mirror.koddos.net/ubcd"
 ]
 FILE_NAME = "ubcd[[VER]].iso"
 
